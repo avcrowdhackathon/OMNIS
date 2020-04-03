@@ -45,5 +45,5 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## Acknowledgments
 
-* This code is initialy written for Antivirus Hackathlon https://crowdhackathon.com/antivirus/ entry
+* This code is initialy written for Antivirus Hackathlon https://crowdhackathon.com/antivirus/ entry 
 
