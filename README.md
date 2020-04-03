@@ -1,15 +1,4 @@
-#  NodeMCU + DS18B20 medical data collection and analysis
-## Getting Started
- An IOT based system for medical data collection and analysis. This application runs on an WiFi connected ESP8266 NodeMCU which gets readings from a Dallas DS18B20 temperature sensor (later on a MELEXIS sensor). Data are uploaded on a constant basis into ThingSpeak (https://thingspeak.com) cloud data analysis service where are processed and dipslayed accordingly.
- 
-### Prerequisites
-
-A NodeMCU 8266 development board
-
-A Dallas 18B20 temperature sensor
-
-Adruino IDE
-
+##
 
 
 ### Installing
