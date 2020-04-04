@@ -1,4 +1,4 @@
-#### COVIDUS
+# COVIDUS
 
 
 ### Installing
