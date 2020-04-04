@@ -3,7 +3,7 @@
 
  
 ### Prerequisites
-
+*
 A NodeMCU 8266 development board
 
 A Dallas 18B20 temperature sensor 
@@ -13,7 +13,7 @@ Adruino IDE
 
 
 ### Installing
-
+*
 
 
 You need to load these libraries to Arduino IDE
