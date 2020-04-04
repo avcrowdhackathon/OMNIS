@@ -35,7 +35,7 @@ Dallas https://www.arduinolibraries.info/libraries/dallas-temperature
 
 * Go to **ThingSpeak** and SignUp
 
-Copy your API Key and WiFi credentials into covidus.ino
+* Copy your API Key and WiFi credentials into covidus.ino
 
 
 ## Built With
