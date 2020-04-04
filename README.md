@@ -1,4 +1,15 @@
-# COVIDUS
+#  COVIDUS
+
+
+ 
+### Prerequisites
+
+A NodeMCU 8266 development board
+
+A Dallas 18B20 temperature sensor 
+
+Adruino IDE
+
 
 
 ### Installing
@@ -12,10 +23,9 @@ OneWire https://www.arduinolibraries.info/libraries/one-wire
 Dallas https://www.arduinolibraries.info/libraries/dallas-temperature
 
 
-Go to ThingSpeak and SignUp. Copy your API Key and WiFi credentials into biometrics.ino
+* Go to **ThingSpeak** and SignUp
 
-
-
+Copy your API Key and WiFi credentials into covidus.ino
 
 
 ## Built With
