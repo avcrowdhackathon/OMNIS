@@ -1,4 +1,14 @@
 #  COVIDUS
+ IOT based system for body temperature collection and analysis. This application runs on a WiFi connected ESP8266 NodeMCU which gets readings from a Dallas DS18B20 temperature sensor.  These data are uploaded on a constant basis into ThingSpeak (https://thingspeak.com) cloud data analysis service where are processed and displayed accordingly. The software reads also the serial No of the attached device in case someone wants to use it in a FrontEnd application. This code scans connected OneWire bus so a lot of sensors can be read simultaneously.
+  ![image1](Fever_alert.PNG)
+  
+## Live data for  [ https://crowdhackathon.com/antivirus/ ]
+
+ https://thingspeak.com/channels/1029493
+ 
+ http://api.thingspeak.com/channels/1029493/charts/1
+ 
+ https://thingspeak.com/apps/matlab_visualizations/339088
 
 
  
@@ -34,7 +44,7 @@ Copy your API Key and WiFi credentials into covidus.ino
 
 ## Authors
 
-* **Chris Papathanasiou** [https://gitlab.com/CrispSV] - *Initial work* 
+* **Chris Papathanasiou** [https://gitlab.com/CrispSV] 
 
 See also the list of [contributors](https://github.com/avcrowdhackathon/OMNIS/blob/master/contributors) who participated in this project.
 
